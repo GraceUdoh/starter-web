@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Grace Udoh gudoh@git.training @udohgrace
 
 # THANKS
 
